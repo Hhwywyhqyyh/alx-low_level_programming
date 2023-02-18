@@ -5,6 +5,8 @@
 /**
  * main - Determines if a number is positive, negative or zero.
  *
+ * description: if/else declares number positive, negative or
+ *
  * Return: Always 0 (Success)
  *
  */
